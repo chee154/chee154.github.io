@@ -1,0 +1,27 @@
+---
+author: "David Wei"
+date: "7/19/2020"
+output: html_document
+---
+
+![](2014-12-26 05.05.11 1.jpg){#id .class width=35% height=50%}
+
+#### My Name: 
+* David Wei
+
+#### Where I'm from:
+* Dallas, TX
+
+#### My Interests:
+* Music, Sports, Gaming
+
+#### Where I work:
+* Data Engineer @ CVS Health
+
+#### Where I went to school:
+* Texas A&M, AA in Journalism
+* University of Texas at Dallas in Information Technology
+
+
+
+The other tabs represent work / analyses that I have completed.  Please check them out!”
