@@ -4,5 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "About Me"
+      href: About_Me.html
     - text: "Beer & Breweries Case Study"
       href: Case-Study-1-Beer_Breweries.html
