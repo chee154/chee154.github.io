@@ -13,7 +13,7 @@ output: html_document
 * Dallas, TX
 
 #### My Interests:
-* Music, Sports, Gaming
+* Music Production, Tennis, Soccer, Podcasts
 
 #### Where I work:
 * Data Engineer @ CVS Health
